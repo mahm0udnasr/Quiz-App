@@ -10,17 +10,7 @@ Quiz App is an interactive web application that allows users to take short quizz
 
 ## Prerequisites
 - Node.js
-- npm (or yarn)
-
-##Folder Structure
-- Quiz-App/
-├── public/         
-├── src/            
-│   ├── components/ 
-│   ├── pages/      
-│   └── App.js     
-├── package.json    
-└── README.md       
+- npm (or yarn)   
 
 ## How to Run the Project Locally
 1. **Clone the repository**:
@@ -42,8 +32,8 @@ Quiz App is an interactive web application that allows users to take short quizz
 4. **Open your browser**:
    - Open your browser and go to `http://localhost:3000` to see the app running.
   
-Contact
-For any inquiries or issues, feel free to open an <a href="https://t.me/mahm0udnasr">Issue<a/> in the repository.
+## Contact
+ - For any inquiries or issues, feel free to open an <a href="https://t.me/mahm0udnasr">Issue<a/> in the repository.
 
 
 
